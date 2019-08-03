@@ -1,11 +1,9 @@
 # Portfolio Overview
 
-• Cisco Webex Teams Chatbot
-
+• Cisco Webex Teams Chatbot.
 I have developed a virtual assistant using Dialogflow to promote automation and decrease my workload as client infrastructure management transformation lead for a world's leading financial institution. (Confidential)
 
-• 'What's in the fridge?' Object Detection
-
+• 'What's in the fridge?' Object Detection.
 Leveraging on transfer learning, I trained an image classifier which can recognize vegetables &amp; fruits at state of the art accuracy (+90%). The algorithm is build on top of the Fastai library and run in the cloud on a Colab GPU.
 
 • Titanic survival rate prediction & Data Visualization
