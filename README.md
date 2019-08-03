@@ -1,6 +1,6 @@
 # Portfolio Overview
 
-• Cisco Webex Teams Chatbot<br>
+• <b>Cisco Webex Teams Chatbot</b><br>
 I have developed a virtual assistant using Dialogflow to promote automation and decrease my workload as client infrastructure management transformation lead for a world's leading financial institution. (Confidential)
 
 • 'What's in the fridge?' Object Detection<br>
