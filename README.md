@@ -4,7 +4,7 @@
 I have developed a virtual assistant using Dialogflow to promote automation and decrease my workload as client infrastructure management transformation lead for a world's leading financial institution. (Confidential)
 
 • <b>'What's in the fridge?' Object Detection</b><br>
-Leveraging on transfer learning, I trained an image classifier which can recognize vegetables &amp; fruits at state of the art accuracy (+90%). The algorithm is build on top of the Fastai library and run in the cloud on a Colab GPU.
+Leveraging on transfer learning, I trained an image classifier which can recognize vegetables &amp; fruits at state of the art accuracy (+90%) (2019). The algorithm is build on top of the Fastai library and runs in the cloud on a Colab GPU.
 
 • <b>Titanic survival rate prediction & Data Visualization</b><br>
 I have worked with the Titanic dataset from Kaggle to build a model that combines supervised and unsupervised learning to predict the survival rate of an individual. I have represented my results using Matplotlib &amp; Seaborn libraries.
